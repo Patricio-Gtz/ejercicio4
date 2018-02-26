@@ -1,10 +1,5 @@
 #include "funciones.h"
 
-extern int histograma(char entrada[20], char salida[20]);
-extern int imprimirHistograma(int histograma[], char sal[20]);
-extern int ecualizar(int histograma[], char encabezado[50], char entr[20], long int lar, int enc);
-extern int maximo(int histograma[]);
-extern int minimo(int histograma[]);
 
 int main(int argc, char const *argv[]) {
 
