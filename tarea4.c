@@ -1,4 +1,5 @@
 #include "funciones.h"
+// https://www.dropbox.com/s/gps2qo9ihub03di/x_64.raw?dl=0
 
 
 int main(int argc, char const *argv[]) {
